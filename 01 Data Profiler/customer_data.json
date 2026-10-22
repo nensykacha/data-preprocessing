@@ -1,0 +1,62 @@
+[
+    {
+        "CustomerID": 101,
+        "City": "Ahmedabad",
+        "SignupDate": "2023-01-15",
+        "PreferredCategory": "Electronics"
+    },
+    {
+        "CustomerID": 102,
+        "City": "Surat",
+        "SignupDate": "2022-11-20",
+        "PreferredCategory": "Fashion"
+    },
+    {
+        "CustomerID": 103,
+        "City": "Rajkot",
+        "SignupDate": "2023-03-10",
+        "PreferredCategory": "Grocery"
+    },
+    {
+        "CustomerID": 104,
+        "City": "Vadodara",
+        "SignupDate": "2021-08-05",
+        "PreferredCategory": "Electronics"
+    },
+    {
+        "CustomerID": 105,
+        "City": "Ahmedabad",
+        "SignupDate": "2020-05-12",
+        "PreferredCategory": "Home"
+    },
+    {
+        "CustomerID": 106,
+        "City": "Surat",
+        "SignupDate": "2023-06-01",
+        "PreferredCategory": "Fashion"
+    },
+    {
+        "CustomerID": 107,
+        "City": "Gandhinagar",
+        "SignupDate": "2022-02-14",
+        "PreferredCategory": "Electronics"
+    },
+    {
+        "CustomerID": 108,
+        "City": "Rajkot",
+        "SignupDate": "2022-09-19",
+        "PreferredCategory": "Grocery"
+    },
+    {
+        "CustomerID": 109,
+        "City": "Bhavnagar",
+        "SignupDate": "2023-04-22",
+        "PreferredCategory": "Fashion"
+    },
+    {
+        "CustomerID": 110,
+        "City": "Vadodara",
+        "SignupDate": "2021-12-30",
+        "PreferredCategory": "Home"
+    }
+]

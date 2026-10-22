@@ -1,0 +1,11 @@
+CustomerID,Age,Income,Purchases,Gender,Churn
+101,25,50000,5,Male,0
+102,34,65000,12,Female,0
+103,28,42000,3,Female,1
+104,45,80000,18,Male,0
+105,52,95000,25,Female,0
+106,23,35000,2,Male,1
+107,40,72000,15,Male,0
+108,31,58000,8,Female,0
+109,29,48000,4,Male,1
+110,38,61000,10,Female,0
