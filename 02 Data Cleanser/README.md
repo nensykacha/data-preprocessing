@@ -54,3 +54,8 @@ The project is divided into three major parts:
 2. Make sure you have Python installed, then install the required libraries by running this command in your terminal:
    ```bash
    pip install pandas numpy scikit-learn scipy
+
+ ---
+
+ ## 🎬 Explanation Video Link :
+ 
